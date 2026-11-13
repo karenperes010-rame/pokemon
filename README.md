@@ -125,6 +125,9 @@ ve a *Settings → Pages → Source* y elige **GitHub Actions**.
 8. **Nuevo torneo.** En el menú (⋮) del Ranking puedes poner los puntos en 0 o
    borrar todo.
 
+   <img width="444" height="444" alt="WhatsApp Image 2026-11-13 at 12 38 13 AM" src="https://github.com/user-attachments/assets/c785d311-cd21-4aee-8ac5-5ee505b149a3" />
+
+
 ## Equipo
 
 - Laura Jimenez
