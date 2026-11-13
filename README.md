@@ -127,6 +127,7 @@ ve a *Settings → Pages → Source* y elige **GitHub Actions**.
 
 ## Equipo
 
-- Integrante 1
-- Integrante 2
-- Integrante 3
+- Laura Jimenez
+- Niyired Gonzalez
+- Karen Pérez
+- Sofia 
