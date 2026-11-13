@@ -130,4 +130,4 @@ ve a *Settings → Pages → Source* y elige **GitHub Actions**.
 - Laura Jimenez
 - Niyired Gonzalez
 - Karen Pérez
-- Sofia 
+- Sofia Reina
